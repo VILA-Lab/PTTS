@@ -54,7 +54,6 @@ The training dataset consists of 900 high-quality reasoning examples generated f
 - **Source**: 90 AIME problems (2022-2024)
 - **Augmentation**: 4 instruction wrapper types with reward variants
 - **Final Size**: 900 training examples
-- **Format**: Tokenized CSV format for efficient training
 
 ### Data Tokenization
 
