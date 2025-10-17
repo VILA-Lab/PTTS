@@ -4,7 +4,7 @@
 
 <p align="center">
   •
-  📄 <a href="https://arxiv.org/abs/XXXX.XXXXX">Paper</a> •
+  📄 <a href="https://arxiv.org/abs/2510.09599">Paper</a> •
   📊 <a href="https://huggingface.co/datasets/P-TTS/P_TTS-Full">Dataset</a>
 </p>
 
@@ -125,10 +125,10 @@ python DataConstruction/combine_deepseek_data.py
 
 ## Citation
 ```
-@article{bsharat2025ptts,
-  title={Prompting Test-Time Scaling Is A Strong LLM Reasoning Data Augmentation -- 90 Samples Can Beat 1K in the Wild},
+@article{bsharat2025prompting,
+  title={Prompting Test-Time Scaling Is A Strong LLM Reasoning Data Augmentation},
   author={Bsharat, Sondos Mahmoud and Shen, Zhiqiang},
-  journal={arXiv preprint arXiv:2501.XXXXX},
+  journal={arXiv preprint arXiv:2510.09599},
   year={2025}
 }
 ```
